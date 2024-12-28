@@ -1,0 +1,12 @@
+{
+    "cSpell.words": [
+        "boto",
+        "fastapi",
+        "matplotlib",
+        "mypy",
+        "nltk",
+        "sentencepiece",
+        "tqdm",
+        "uvicorn"
+    ]
+}
