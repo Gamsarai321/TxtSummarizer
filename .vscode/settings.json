@@ -5,8 +5,10 @@
         "matplotlib",
         "mypy",
         "nltk",
+        "sacrebleu",
         "sentencepiece",
         "tqdm",
         "uvicorn"
-    ]
+    ],
+    "python.analysis.typeCheckingMode": "basic"
 }
